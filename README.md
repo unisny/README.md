@@ -12,14 +12,14 @@
 
 ---
 
-## 🏫 About UNIS
+## About UNIS
 Established in 1947 by a group of United Nations parents, UNIS is a Pre-K-to-12th grade, coeducational, college-preparatory day school. Under the auspices of the United Nations and guided by its ideals, UNIS provides a rigorous international program in an inclusive and diverse learning environment. 
 
 UNIS fosters innovation, creativity, and cross-cultural communication, educating and inspiring its students to become an active force in shaping a better world: peaceful, compassionate, and sustainable.
 
 > **Learn more about our school:** [https://www.unis.org/](https://www.unis.org/)
 
-## 💻 What We Do
+## What We Do
 This organization (`unisny`) is the central repository for software, tools, and integrations developed and managed by the UNIS tech team. Our repositories contain:
 
 * **School Software Integrations:** Scripts and applications that bridge various educational platforms and administrative tools.
