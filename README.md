@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/unisny/README.md/main/unislogo.JPG" alt="UNIS Logo" width="160"/>
+<img src="unislogo.JPG" alt="UNIS Logo" width="160"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=32&pause=1000&color=0055A4&center=true&vCenter=true&width=800&lines=United+Nations+International+School;UNIS+Tech+Team;Innovating+for+a+Better+World)](https://www.unis.org/)
 
